@@ -1,9 +1,10 @@
 import React from 'react'
+import Header from './components/Header'
 
 const Amazon = () => {
     return (
         <div>
-            Amazon
+            <Header />
         </div>
     )
 }
